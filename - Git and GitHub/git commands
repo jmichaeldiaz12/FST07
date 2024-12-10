@@ -6,3 +6,9 @@ Legend in git repository
 U - Untracked
 A - Added
 M - Modified
+
+Check on the working tree/ Status of our commit
+-git status
+
+Creating a branch
+-git branch branchName
